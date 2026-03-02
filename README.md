@@ -7,8 +7,10 @@ Deployed URL Endpoint: https://bitespeed-api-t7x1.onrender.com
 ## API Endpoint
 
 HTTP Request Method: POST 
-URL: https://bitespeed-api-t7x1.onrender.com/identify
----
+API : /identify
+URL: https://bitespeed-api-t7x1.onrender.com
+URL with Endpoint : https://bitespeed-api-t7x1.onrender.com/identify
+
 
 ## Problem Statement
 
