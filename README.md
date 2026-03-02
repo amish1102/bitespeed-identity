@@ -1,4 +1,4 @@
-# Bitespeed Backend Service
+## Bitespeed Backend Service
 
 A backend service that identifies and consolidates customer identities across multiple purchases based on email and phone number.
 
