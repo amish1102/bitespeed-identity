@@ -11,10 +11,17 @@ Deployed URL Endpoint: https://bitespeed-api-t7x1.onrender.com
 - **API Endpoint:** /identify  
 - **Full URL:** https://bitespeed-api-t7x1.onrender.com/identify
 
+## Tech Stack
+
+- Backend: Node.js, EXpress.js
+- Database: PostgreSQL
+- ORM: Prisma
+- Deployment: Render
+- Dev Tools: Nodemon, Git & Github
 
 ## Problem Statement
 
-FluxKart checkout events always contain either:
+FluxKart checkout events always contain either (or both): 
 
 - `email`
 - `phoneNumber`
