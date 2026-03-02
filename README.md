@@ -18,6 +18,7 @@ Deployed URL Endpoint: https://bitespeed-api-t7x1.onrender.com
 - ORM: Prisma
 - Deployment: Render
 - Dev Tools: Nodemon, Git & Github
+- API Testing: Postman
 
 ## Problem Statement
 
