@@ -4,7 +4,7 @@ A backend service that identifies and consolidates customer identities across mu
 
 Deployed URL Endpoint: https://bitespeed-api-t7x1.onrender.com
 
-API Endpoint
+## API Endpoint
 
 HTTP Request Method: POST 
 URL: https://bitespeed-api-t7x1.onrender.com/identify
