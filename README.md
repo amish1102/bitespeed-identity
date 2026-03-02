@@ -13,7 +13,7 @@ Deployed URL Endpoint: https://bitespeed-api-t7x1.onrender.com
 
 ## Tech Stack
 
-- Backend: Node.js, EXpress.js
+- Backend: Node.js, Express.js
 - Database: PostgreSQL
 - ORM: Prisma
 - Deployment: Render
